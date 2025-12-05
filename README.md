@@ -4,7 +4,7 @@ Covering digital logic design and control concepts using Verilog HDL on FPGA har
 
 ## Overview
 
-**Board used:** Nexys A7 (Artix-7 FPGA)  
+**Board used:** [Nexys A7](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual) (Artix-7 FPGA)  
 **Language:** Verilog HDL  
 **Tools:** Vivado Design Suite
 
@@ -51,6 +51,12 @@ pb_in → [Clock Div] → [DFF0] → [DFF1] → [DFF2] → Edge Detect → pb_ou
           slow_clk (divided clock)
 ```
 <img width="2423" height="750" alt="p3_2" src="https://github.com/user-attachments/assets/13efa293-cdc2-4a8d-8622-f9fd341f7865" />
+
+## Resources
+
+- [Aleksandar Haber](https://www.aleksandarhaber.com/)
+- [FPGA4Student](https://www.fpga4student.com/)
+- [Nandland](https://www.nandland.com/)
 
 ---
 [Krishang Talsania](https://talsania.github.io)
